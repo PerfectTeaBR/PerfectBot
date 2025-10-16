@@ -1,6 +1,6 @@
-Perfeito! 😄 Aqui está um **README** adequado para o seu bot privado com licença **AGPL 3.0**:
 
-````markdown
+
+
 # PerfectTea Bot ☕
 Um bot de Discord feito em Python para interagir com a comunidade da PerfectTea.
 
